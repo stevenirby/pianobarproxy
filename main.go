@@ -28,7 +28,7 @@ Usage
 package main
 
 import (
-	"code.google.com/p/go.net/proxy"
+	"github.com/elazarl/goproxy"
 	"flag"
 	"fmt"
 	"io"
