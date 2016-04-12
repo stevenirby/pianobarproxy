@@ -28,7 +28,7 @@ Usage
 package main
 
 import (
-	"github.com/elazarl/goproxy"
+	"golang.org/x/net/proxy"
 	"flag"
 	"fmt"
 	"io"
